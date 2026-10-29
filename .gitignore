@@ -1,0 +1,9 @@
+# Virtual environment (recreate with: pip install -r requirements.txt)
+mlflow_lab1_env/
+
+# MLflow tracking data, generated when the notebooks run
+mlruns/
+mlflow.db
+
+__pycache__/
+.ipynb_checkpoints/
